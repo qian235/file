@@ -3,3 +3,7 @@
 3.在 git bash 里输入 git add . 
 4.git commit -m "上传内容说明"
 5.输入git push
+
+
+访问地址
+https://github.com/qian235/file
