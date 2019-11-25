@@ -1,4 +1,5 @@
-1.右击打开git bash here;
-2.把上传的文件放到这个文件夹下；
-3.在 git bash 里输入 git commit -am "上传内容说明"；
-4.输入git push;
+1.右击打开git bash here
+2.把上传的文件放到这个文件夹下
+3.在 git bash 里输入 git add . 
+4.git commit -m "上传内容说明"
+5.输入git push
